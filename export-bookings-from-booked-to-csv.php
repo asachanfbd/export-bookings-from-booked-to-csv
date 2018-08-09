@@ -199,13 +199,6 @@ class BOOKED_Export_Bookings {
 		header("Pragma: no-cache"); // HTTP 1.0
 		header("Expires: 0"); // Proxies
 	}
-	 
-	public function pre($arr){
-		echo '<pre>';
-		print_r($arr);
-		echo '</pre>';
-	}
-	 
 }
 
 new BOOKED_Export_Bookings;
