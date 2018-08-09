@@ -1,20 +1,18 @@
-# Export Bookings from WooCommerce to CSV
+# Export Bookings from "Booked - Appointment Booking for WordPress" Plugin to CSV
 
-Contributors: CustomWPNinjas
-Tags: woocommerce, csv, export, bookings
-Donate link: http://www.customwpninjas.com
+Contributors: Asachanfbd
+Tags: booked, csv, export, bookings
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: trunk
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Have a busy schedule and need to export your WooCommerce Bookings to a CSV? We can help!
 
 ## Description
-Do not let the limitations of your existing Bookings platform stop you, CustomWPNinjas is here to help you get your bookings put together on an easy to read spreadsheet searchable by date, resource, or a full listing of everyone involved - FOR FREE!
+This plugin will help you export details from [Booked - Appointment Booking for WordPress Plugin's](https://codecanyon.net/item/booked-appointments-appointment-booking-for-wordpress/9466968) Bookings. The plugin don't have functionality to export plugin. So I made it.
+
+Very simple use - Just select the date range and click export a CSV file will be exported. 
+
+NOTE for Booked Plugin Author - If you are reading this you can include this functionality in your plugin, you are free to copy paste this code.
 
 ## Installation
-1. Upload `export-bookings-from-woocommerce-to-csv` to the `/wp-content/plugins/` directory
+1. Upload `export-bookings-from-booked-to-csv` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the \'Plugins\' menu in WordPress
-3. Visit Bookings -> Export Bookings and choose your filters
+3. Visit Export Bookings and choose your filters

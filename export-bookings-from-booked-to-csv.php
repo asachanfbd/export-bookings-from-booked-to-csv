@@ -1,11 +1,11 @@
 <?php 
 
 /**
- * @package Export_Bookings_from_WooCommerce_to_CSV
+ * @package Export_Bookings_from_Booked_to_CSV
  * @version 1.0.0
  */
 /*
-Plugin Name: Export Bookings from WooCommerce to CSV
+Plugin Name: "Booked - Appointment Booking for WordPress" Plugin's Booking Export to CSV
 
 */
 /**
