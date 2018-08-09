@@ -16,6 +16,6 @@ Very simple use - Just select the date range and click export a CSV file will be
 NOTE for Booked Plugin Author - If you are reading this you can include this functionality in your plugin, you are free to copy paste this code.
 
 ## Installation
-1. Upload `export-bookings-from-booked-to-csv` to the `/wp-content/plugins/` directory
+1. Uploadfile `export-bookings-from-booked-to-csv.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the \'Plugins\' menu in WordPress
 3. Visit Export Bookings and choose your filters
