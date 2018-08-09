@@ -1,8 +1,11 @@
 # Export Bookings from "Booked - Appointment Booking for WordPress" Plugin to CSV
 
 Contributors: Asachanfbd
+
 Tags: booked, csv, export, bookings
+
 Requires at least: 3.0.1
+
 Tested up to: 4.1
 
 ## Description
