@@ -8,6 +8,10 @@ Requires at least: 3.0.1
 
 Tested up to: 4.1
 
+License: GPLv2 or later
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 ## Description
 This plugin will help you export details from [Booked - Appointment Booking for WordPress Plugin's](https://codecanyon.net/item/booked-appointments-appointment-booking-for-wordpress/9466968) Bookings. The plugin don't have functionality to export plugin. So I made it.
 
